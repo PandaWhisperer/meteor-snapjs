@@ -1,0 +1,9 @@
+{
+  "name": "Snap.js",
+  "description": "A library for creating beautiful mobile shelfs in JavaScript",
+  "homepage": "http://jakiestfu.github.io/Snap.js/",
+  "author": "Jakob Kelly <jakie8@gmail.com> (code), Christoph Wagner <chwagner@gmail.com> (package)",
+  "version": "1.9.3",
+  "git": "https://github.com/cw4gn3r/meteor-snapjs.git",
+  "packages": {}
+}
