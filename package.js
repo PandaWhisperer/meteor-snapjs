@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files(['./lib/snap.css', './lib/snap.js'], 'client');
+  api.add_files(['lib/snap.css', 'lib/snap.js'], 'client');
 });
